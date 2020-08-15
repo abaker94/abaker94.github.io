@@ -1,0 +1,14 @@
+.crd {
+	border: solid 1px black;
+	width: 350px;
+}
+
+.crd-title {
+	font-family: arial;
+	text-align: center;
+}
+
+.crd-content {
+	font-family: arial;
+	text-align: left;
+}
